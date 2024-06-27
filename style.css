@@ -1,0 +1,58 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-image: url(https://media.cntraveler.com/photos/5eb18e42fc043ed5d9779733/16:9/w_1920%2Cc_limit/BlackForest-Germany-GettyImages-147180370.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+h2 {
+    font-weight: bold;
+    color:rgb(42, 41, 40);
+    background-color: goldenrod;
+    border: 1px solid black;
+    border-radius: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 4px;
+    line-height: 21px;
+    color: rgb(227, 136, 44);
+    background-color: rgb(24, 24, 23, 0.5);
+}
+
+#learnmorebtn { 
+    border: 3px solid white;
+    border-radius: 50px;
+    color: black;
+    background-color: rgb(12, 236, 16);
+    font-size: 15px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#learnmorebtn:hover {
+   background-color :red;
+   border: none;
+   color: rgb(11, 11, 11);
+   font-size: 12px;
+   padding: 15px 32px
+}
+
+li {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+h3 {
+    color: yellowgreen;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
